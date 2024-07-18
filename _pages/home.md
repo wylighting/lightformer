@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle: "LightFormer:-Light-Oriented-Global-Neural-Rendering-in-Dynamic-Scene"
-title: "LightFormer:-Light-Oriented-Global-Neural-Rendering-in-Dynamic-Scene"
+urltitle: "LightFormer: Light Oriented Global Neural Rendering in Dynamic Scene"
+title: "LightFormer: Light Oriented Global Neural Rendering in Dynamic Scene"
 categories: computer graphics, machine learning, rendering
 permalink: /
 ---
