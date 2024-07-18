@@ -39,7 +39,8 @@ permalink: /
     <br> -->
     <center>
       <!-- <a href='https://arxiv.org/abs/2107.06149'>arXiv</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Supp</a> | <a href='https://www.kujiale.com/coohomcloud/minervas'>Online System</a> | <a href="https://coohom.github.io/cloud-docs/">Doc</a> -->
-      <a href="{{ "/static/pdf/paper.pdf" | prepend:site.baseurl }}">Paper</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Supp</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Video</a> | <a href="{{ "/comparison_tool/index.html" | prepend:site.baseurl }}">Interactive viewer</a>
+      <!--  -->
+      <a href="{{ "/static/pdf/paper.pdf" | prepend:site.baseurl }}">Paper</a> | <a href='https://pan.zju.edu.cn/share/555b20693638fcd67b7f8968c6?isCurrent=1&isopen=1&preview=455036531272&preview_side_active=1&scenario=share&share_type=file'>Supp</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Video</a> | <a href="{{ "/comparison_tool/index.html" | prepend:site.baseurl }}">Interactive viewer</a>
     </center>
   </div>
 </div><br>
@@ -77,7 +78,7 @@ permalink: /
     <p>
       <!-- <center><iframe width="900" height="500" src="https://www.youtube.com/embed/wUUINjbLNG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> -->
       <!-- <center><iframe width="900" height="500" src="https://www.youtube.com/embed/sAr4AYdpdrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> -->
-      <center><iframe width="900" height="500" src="https://www.youtube.com/embed/Pxz3iSuNHDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+      <center><iframe width="900" height="500" src="https://www.youtube.com/embed/5PflBxEjeq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
     </p>
     <p>
       The generation of global illumination in real time has been a long-standing challenge in the graphics community, particularly in dynamic scenes with complex illumination. 
