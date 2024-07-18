@@ -335,7 +335,7 @@ carousel("mySlides1", 0);
 <pre><code class="text">
 @article{ren2024lightformer,
   title={LightFormer: Light-Oriented Global Neural Rendering in Dynamic Scene},
-  author={Ren, Haocheng and Huo, Yuchi and Yifan, Peng and Sheng, Hongtao and Huang, Hongxiang and Xue, Weidong and Lan, Jingzhen and Wang, Rui and Bao, Hujun},
+  author={Ren, Haocheng and Huo, Yuchi and Peng, Yifan and Sheng, Hongtao and Huang, Hongxiang and Xue, Weidong and Lan, Jingzhen and Wang, Rui and Bao, Hujun},
   journal={ACM Transactions on Graphics},
   volume={43},
   number={4},
