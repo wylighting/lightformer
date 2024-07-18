@@ -1,6 +1,6 @@
-title: MINERVAS Massive INterior EnviRonments VirtuAl Synthesis
+title: LightFormer: Light-Oriented Global Neural Rendering in Dynamic Scene
 email: minervas@qunhemail.com
-description: Website for MINERVAS
+description: Website for LightFormer
 # baseurl: "/MINERVAS" # the subpath of your site, e.g. /blog
 baseurl: "." # the subpath of your site, e.g. /blog
 
