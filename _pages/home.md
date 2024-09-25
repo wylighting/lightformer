@@ -17,7 +17,7 @@ permalink: /
     </center>
     <br>
     <center>
-      Haocheng Ren<sup>1</sup>,
+      <a href="https://www.renhaocheng.com">Haocheng Ren</a><sup>1</sup>,
       <a href="http://www.cad.zju.edu.cn/home/huo/">Yuchi Huo</a><sup>1</sup>,
       <a href="https://www.eee.hku.hk/~evanpeng/">Yifan Peng</a><sup>2</sup>,
       Hongtao Sheng<sup>1</sup>,
@@ -33,14 +33,14 @@ permalink: /
       <sup>2</sup>University of Hong Kong
     </center>
     <br>
-    <!-- <center>
-      (*: Equal Contribution)
+    <center>
+      ACM Transactions on Graphics (SIGGRAPH 2024)
     </center>
-    <br> -->
+    <br>
     <center>
       <!-- <a href='https://arxiv.org/abs/2107.06149'>arXiv</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Supp</a> | <a href='https://www.kujiale.com/coohomcloud/minervas'>Online System</a> | <a href="https://coohom.github.io/cloud-docs/">Doc</a> -->
       <!--  -->
-      <a href="{{ "/static/pdf/paper.pdf" | prepend:site.baseurl }}">Paper</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Supp</a> | <a href='https://pan.zju.edu.cn/share/555b20693638fcd67b7f8968c6?isCurrent=1&isopen=1&preview=455036531272&preview_side_active=1&scenario=share&share_type=file'>Video</a> | <a href="{{ "/comparison_tool/index.html" | prepend:site.baseurl }}">Interactive viewer</a>
+      <a href="{{ "/static/pdf/paper.pdf" | prepend:site.baseurl }}"><strong>Paper</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Supp</a> | <a href='https://pan.zju.edu.cn/share/555b20693638fcd67b7f8968c6?isCurrent=1&isopen=1&preview=455036531272&preview_side_active=1&scenario=share&share_type=file'>Video</a> | <a href="{{ "/comparison_tool/index.html" | prepend:site.baseurl }}">Interactive viewer</a>
     </center>
   </div>
 </div><br>
