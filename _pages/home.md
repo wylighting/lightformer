@@ -40,7 +40,7 @@ permalink: /
     <center>
       <!-- <a href='https://arxiv.org/abs/2107.06149'>arXiv</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Supp</a> | <a href='https://www.kujiale.com/coohomcloud/minervas'>Online System</a> | <a href="https://coohom.github.io/cloud-docs/">Doc</a> -->
       <!--  -->
-      <a href="{{ "/static/pdf/paper.pdf" | prepend:site.baseurl }}"><strong>Paper</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Supp</a> | <a href='https://pan.zju.edu.cn/share/555b20693638fcd67b7f8968c6?isCurrent=1&isopen=1&preview=455036531272&preview_side_active=1&scenario=share&share_type=file'>Video</a> | <a href="{{ "/comparison_tool/index.html" | prepend:site.baseurl }}">Interactive viewer</a>
+      <a href="{{ "/static/pdf/paper.pdf" | prepend:site.baseurl }}">Paper</a> | <a href="{{ "/static/pdf/supp.pdf" | prepend:site.baseurl }}">Supp</a> | <a href='https://pan.zju.edu.cn/share/555b20693638fcd67b7f8968c6?isCurrent=1&isopen=1&preview=455036531272&preview_side_active=1&scenario=share&share_type=file'>Video</a> | <a href="{{ "/comparison_tool/index.html" | prepend:site.baseurl }}">Interactive viewer</a>
     </center>
   </div>
 </div><br>
